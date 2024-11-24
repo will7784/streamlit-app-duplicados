@@ -2,5 +2,5 @@ streamlit==1.26.0
 pandas==2.1.1
 openpyxl==3.1.2
 xlsxwriter==3.1.6
-Pillow>=10.0.0
+Pillow==9.5.0
 
